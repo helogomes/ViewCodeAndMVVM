@@ -1,0 +1,68 @@
+
+{
+    "group" : [
+        {
+            "name": "Heloisa",
+            "age": 21,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": true,
+            "identifier": 0
+        },
+        {
+            "name": "David",
+            "age": 23,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        },
+        {
+            "name": "Leonardo",
+            "age": 19,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        },
+        {
+            "name": "Bianca",
+            "age": 23,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        },
+        {
+            "name": "David",
+            "age": 23,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        },
+        {
+            "name": "Leonardo",
+            "age": 19,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        },
+        {
+            "name": "Bianca",
+            "age": 23,
+            "profession": "Developer IOS",
+            "salary": "1.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false,
+            "identifier": 0
+        }
+    ]
+}
